@@ -1,0 +1,11 @@
+C:\Users\Gabriel Gomes\source\repos\Almawave.xmpp\bin\Debug\netcoreapp2.1\Almawave.xmpp.deps.json
+C:\Users\Gabriel Gomes\source\repos\Almawave.xmpp\bin\Debug\netcoreapp2.1\Almawave.xmpp.runtimeconfig.json
+C:\Users\Gabriel Gomes\source\repos\Almawave.xmpp\bin\Debug\netcoreapp2.1\Almawave.xmpp.runtimeconfig.dev.json
+C:\Users\Gabriel Gomes\source\repos\Almawave.xmpp\bin\Debug\netcoreapp2.1\Almawave.xmpp.dll
+C:\Users\Gabriel Gomes\source\repos\Almawave.xmpp\bin\Debug\netcoreapp2.1\Almawave.xmpp.pdb
+C:\Users\Gabriel Gomes\source\repos\Almawave.xmpp\obj\Debug\netcoreapp2.1\Almawave.xmpp.csprojAssemblyReference.cache
+C:\Users\Gabriel Gomes\source\repos\Almawave.xmpp\obj\Debug\netcoreapp2.1\Almawave.xmpp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Gomes\source\repos\Almawave.xmpp\obj\Debug\netcoreapp2.1\Almawave.xmpp.AssemblyInfoInputs.cache
+C:\Users\Gabriel Gomes\source\repos\Almawave.xmpp\obj\Debug\netcoreapp2.1\Almawave.xmpp.AssemblyInfo.cs
+C:\Users\Gabriel Gomes\source\repos\Almawave.xmpp\obj\Debug\netcoreapp2.1\Almawave.xmpp.dll
+C:\Users\Gabriel Gomes\source\repos\Almawave.xmpp\obj\Debug\netcoreapp2.1\Almawave.xmpp.pdb
