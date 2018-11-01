@@ -152,7 +152,7 @@ namespace Almawave.xmpp.XMPP
 
 
         #region << Properties and Member Variables >>
-        public const string XmppDomain = "0.0.0.0";
+        public const string XmppDomain = "172.19.22.146";
         public string User { get; set; }
         public string Resource { get; set; }
         public string SessionId { get; set; }
@@ -399,7 +399,7 @@ namespace Almawave.xmpp.XMPP
 
             // check if username and password is correct
             if (user != null
-                && Regex.IsMatch(user, "user([0-9]|10)$")
+                && Regex.IsMatch(user, "user([0-9]|11)$")
                 && pass == dbPass)
             {
                 // pass correct

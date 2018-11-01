@@ -28,7 +28,7 @@ namespace Almawave.xmpp.XMPP
             var myThreadDelegate = new ThreadStart(Listen);
             var myThread = new Thread(myThreadDelegate);
             myThread.Start();
-        }
+         }
 
         private void cmdStop_Click(object sender, EventArgs e)
         {
@@ -41,6 +41,7 @@ namespace Almawave.xmpp.XMPP
             var localEndPoint = new IPEndPoint(IPAddress.Any, 5222);
 
             // Create a TCP/IP socket.
+            //m_Listener = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             m_Listener = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
 
@@ -49,6 +50,7 @@ namespace Almawave.xmpp.XMPP
             {
                 m_Listener.Bind(localEndPoint);
                 m_Listener.Listen(10);
+                Console.WriteLine(localEndPoint);
 
                 m_Listening = true;
 

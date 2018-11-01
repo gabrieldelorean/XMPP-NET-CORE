@@ -1,6 +1,6 @@
-﻿using System;
-
+﻿
 using Almawave.xmpp.XMPP;
+using System;
 
 namespace Almawave.xmpp
 {
@@ -12,6 +12,7 @@ namespace Almawave.xmpp
             var client = new Almawave.xmpp.XMPP.xmpp();
             client.cmdStart_Click();
 
+      
         }
     }
 }

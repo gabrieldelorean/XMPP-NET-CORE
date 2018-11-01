@@ -4346,8 +4346,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://www.myget.org/F/pomelo/api/v3/index.json": {},
-        "https://www.nuget.org/packages/MatriX.NetCore/": {}
+        "https://www.myget.org/F/pomelo/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
